@@ -4,3 +4,5 @@
 #### h4
 ##### h5
 ###### sub title
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
